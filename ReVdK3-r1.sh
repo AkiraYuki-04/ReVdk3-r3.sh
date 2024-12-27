@@ -54,7 +54,6 @@ echo -e "\e[36m\e[1m############################################################
 echo ;
 echo  -e "\e[37m\e[44m\e[1m ReVdK3.sh-r1 (Revision 1)- see README\e[0m";
 echo ;
-echo -e "\e[37m\e[44m\e[1mThanks to N1ksan for some useful ideas in this revision!\e[0m";
 echo ;
 echo -e	"\e[36m\e[40m\e[1m******************************************************\e[0m";
 echo -e "\e[36m\e[40m\e[1m* Welcome: I need to verify your wireless interface  *\e[0m";
