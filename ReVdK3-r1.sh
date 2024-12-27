@@ -31,7 +31,7 @@ declare SUCCESSIVE_EAPOL_FAILURES;
 declare AIREPLAY_RESET;
 declare MONITOR_INTERFACES_CHECK;
 echo -e "\e[36m\e[1m###########################\e[0m";
-echo -e "\e[36m\e[1m# WELCOME TO ReVdK3 Script#  \e[35m\e[1mC\e[92m\e[1mR\e[91m\e[1mE\e[34m\e[1mA\e[33m\e[1mT\e[96m\e[1mE\e[35m\e[1mD  \e[92m\e[1mB\e[35m\e[1mY\e[0m : \e[35m\e[1mR\e[92m\e[1mE\e[91m\e[1mP\e[34m\e[1mZ\e[33m\e[1mE\e[96m\e[1mR\e[35m\e[1mO\e[92m\e[1mW\e[91m\e[1mO\e[34m\e[1mR\e[33m\e[1mL\e[96m\e[1mD\e[35m\e[1m\e[0m";
+echo -e "\e[36m\e[1m# WELCOME TO ReVdK3 Script# \e[0m";
 echo -e "\e[36m\e[1m###########################\e[0m";
 echo -e "\e[36m\e[1m#####################################################################\e[0m";
 echo -e "\e[36m\e[1m# This Script allows you to use reaver and an mdk3 flood attack that#\e[0m";
