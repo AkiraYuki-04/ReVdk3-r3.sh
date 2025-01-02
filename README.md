@@ -16,7 +16,7 @@ Update Any Update Package Lists / Missing Packages By Running following command 
 
 Clone this git link  in your directory :
 
-<https://github.com/saurabhsav53/ReVdk3-r1.sh/blob/main/ReVdK3-r1.sh>
+<https://github.com/AkiraYuki-04/ReVdk3-r3.sh/blob/main/ReVdK3-r3.sh>
 
 Make sure you are in the directory :
 
